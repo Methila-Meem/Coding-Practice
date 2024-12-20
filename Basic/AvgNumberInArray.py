@@ -5,6 +5,7 @@
 # Hint: Sum all the numbers in the array and divide by the number of elements. Be mindful of potential division by zero if the array is empty.
 # Sample Input: [2, 4, 6, 8]
 # Sample Output: 5
+# Update
 
 def calculateAVG(Array, length):
     total = 0
